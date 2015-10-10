@@ -1,0 +1,19 @@
+{
+    "name": "digo-clean-css",
+    "version": "0.1.0",
+    "repository": "http://github.com/digojs/digo-clean-css",
+    "description": "digo 插件：使用 CleanCSS 压缩 CSS",
+    "keywords": [
+        "digo plugin",
+        "minify css",
+        "compress css"
+    ],
+    "license": "MIT",
+    "author": "xuld <xuld@vip.qq.com>",
+    "dependencies": {
+        "clean-css": "latest"
+    },
+    "files": [
+        "index.js"
+    ]
+}
